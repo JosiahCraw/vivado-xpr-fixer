@@ -4,8 +4,8 @@ with open("README.md", 'r') as file_handler:
     long_description  = file_handler.read()
 
 setuptools.setup(
-    name="vivado-xpr-fixer-JOS-CRAW",
-    version="0.0.2",
+    name="vivado-xpr-fixer",
+    version="0.0.1",
     author="Jessie Shehan",
     author_email="jps111@uclive.ac.nz",
     description="A script to fix Vivado absolute path issues when working with git.",

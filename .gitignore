@@ -2,4 +2,4 @@ build/
 dist/
 env/
 pyvenv.cfg
-vivado_xpr_fixer_*.egg-info
+vivado_xpr_fixer*.egg-info
