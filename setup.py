@@ -11,7 +11,7 @@ setuptools.setup(
     description="A script to fix Vivado absolute path issues when working with git.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/JosiahCraw/vivado-xpr-fixer",
     packages=setuptools.find_packages(),
     entry_points='''
         [console_scripts]
